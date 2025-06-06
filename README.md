@@ -7,6 +7,8 @@ Unlike traditional platforms that operate on subscriptions, Filmyfy was born out
 
 ## Video Demo
 
+https://github.com/user-attachments/assets/7854672d-d23f-458f-a98f-d439ff0fc2b5
+
 ## Features
 - Google-based sign-in & sign-out
 - Upload videos (while authenticated)
